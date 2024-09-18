@@ -29,12 +29,6 @@ Modul ini berfokus pada mengirim data **CPU usage** dari komputer ke **Fireba
 
 * * *
 
-Langkah 2: Menyiapkan Lingkungan Python
-
-Berikut adalah revisi **Langkah 2** yang mencakup dua opsi untuk membuat virtual environment: menggunakan **Python venv** dan **conda**.
-
-* * *
-
 ### Langkah 2: Menyiapkan Lingkungan Python
 
 Anda dapat memilih salah satu dari dua metode untuk membuat dan mengaktifkan virtual environment: menggunakan **Python venv** atau **conda**.

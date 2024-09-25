@@ -71,7 +71,7 @@ Install dependencies yang diperlukan:
 pip install -r requirements.txt
 ```
 
-#### Opsi 2: Menggunakan Conda Virtual Environment
+#### Opsi 2: Menggunakan Conda Virtual Environment (Opsi yang disarankan)
 
 1. **Membuat Conda Environment**:
 

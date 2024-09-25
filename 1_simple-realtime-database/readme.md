@@ -356,3 +356,23 @@ Buka browser dan kunjungi `http://127.0.0.1:5000/` untuk melihat visualisasi d
 ### Kesimpulan
 
 Anda telah berhasil membuat aplikasi yang mengambil data CPU usage dari komputer Anda, mengirimnya ke Firebase, dan menampilkannya di website yang di-deploy ke Vercel menggunakan Flask. Aplikasi ini memanfaatkan teknologi cloud untuk real-time data visualization.
+
+***
+
+# Tugas `ho1`
+
+### Deskripsi Tugas
+
+Cobalah kembali modul diatas di `firebase` dan `laptop` anda masing-masing. Dokumentasikan setiap proses yang anda lakukan. Kemudian, modifikasilah data yang dikirimkan. Saya telah mencontohkan untuk mengirim data `CPU` dan `Memory % Usage`. Anda dapat menambahkan data lainnya seperti `Disk Usage`, `Network Usage`, `GPU Usage`, dan lain-lain, atau bahkan mengirimkan data dari sensor (jika anda punya).
+
+### Ketentuan
+- Lakukan deployment di `vercel`
+- Dokumentasikan setiap proses yang anda lakukan
+- Buatlah laporan dengan menggunakan `LaTeX` menggunakan [overleaf](https://www.overleaf.com/) dan template [IF ITERA](https://cs.overleaf.com/latex/templates/if-itera-template/mzszgcxqqxtm)
+- Sertakan screenshot dari setiap proses
+- Sertakan referensi (jika ada) dan attachment percakapan dengan AI LLM (apabila ada) pada bagian akhir dari laporan.
+
+### Pengumpulan
+- Deadline: 4 Oktober 2024 | Pukul 23.59 WIB
+    > Pengurangan nilai 10% untuk setiap jam keterlambatan
+- Link Pengumpulan: [Google Form](https://forms.gle/V8EYNxteSsmR1Wki9)

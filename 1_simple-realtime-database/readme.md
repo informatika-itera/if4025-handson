@@ -1,6 +1,6 @@
 ## Simple Real-Time Database
 
-Modul ini berfokus pada mengirim data **CPU usage** dari komputer ke **Firebase**, kemudian menampilkan data tersebut secara real-time di website menggunakan **Flask**. Aplikasi ini akan di-deploy ke **Vercel**.
+Modul ini berfokus pada mengirim data **CPU usage** dari komputer ke **Firebase**, kemudian menampilkan data tersebut secara real-time di website menggunakan **Flask**. Aplikasi ini akan di-deploy ke **Vercel**. Anda dapat memodifikasinya untuk mengirim dan menampilkan data lainnya secara real-time.
 
 * * *
 
@@ -8,9 +8,9 @@ Modul ini berfokus pada mengirim data **CPU usage** dari komputer ke **Fireba
 
 ### Prasyarat
 
-1. **Python 3.x** terinstal di komputer.
-2. **npm** dan **Vercel CLI** terinstal.
-3. **Firebase account** untuk mengakses Firebase Realtime Database.
+1. **Python 3.x** terinstal di komputer. Belum menginstall python dan conda environment? Baca [tutorial berikut](https://mctm.web.id/course/env-install).
+2. **npm** dan **Vercel CLI** terinstal. Cara install [npm](https://www.niagahoster.co.id/blog/npm/) dan [Vercel CLI](https://vercel.com/docs/cli/install).
+3. [**Firebase account**](https://firebase.google.com/) untuk mengakses Firebase Realtime Database.
 4. Aplikasi **Flask** akan digunakan untuk menampilkan data di web.
 5. **psutil** akan digunakan untuk mengambil data CPU usage.
 

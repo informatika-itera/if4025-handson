@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lottery Results</title>
+</head>
+<body>
+    <h1>Lottery Results</h1>
+    <ul>
+        {% for result in results %}
+            <li>
+                Number {{ result.user_number }}:
+                {{ result.count }} attempts
+            </li>
+        {% endfor %}
+        
+    </ul>
+    <p>
+        
+        Probability is 1 in {{ total_attempts }}
+        ({{ percentage|round(9) }}%)
+        
+    </p>
+</body>
+</html>

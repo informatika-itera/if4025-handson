@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lottery Numbers</title>
+</head>
+<body>
+    <h1>Enter 5 Lottery Numbers</h1>
+    <form action="/submit" method="post">
+        {% for i in range(1, 6) %}
+            <label for="number{{ i }}">Number {{ i }}:</label>
+            <input type="number" name="number{{ i }}" min="1" max="50" required>
+            <br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

@@ -1,5 +1,9 @@
 ## Docker, Flask, Kubernetes: Membangun Aplikasi Tebak Angka dengan Python
 
+### Credits
+
+[Angelomarchaidez](https://medium.com/@angelomarchaidez/docker-flask-kubernetes-building-a-lottery-application-with-python-8d38af40a3d4)
+
 Dalam artikel ini, kita akan membangun aplikasi Tebak Angka sederhana menggunakan **Python**, **Flask**, dan **Docker**, serta membahas cara mengelola aplikasi tersebut menggunakan **Kubernetes**. Tujuan dari tutorial ini adalah untuk memberikan pemahaman dasar tentang bagaimana mengintegrasikan berbagai teknologi ini dalam satu proyek.
 
 ### Persyaratan

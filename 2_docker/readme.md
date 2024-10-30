@@ -144,4 +144,4 @@ Dengan menggunakan prinsip yang sama, muatlah aplikasi yang anda buat di hands-o
 ### Pengumpulan
 - Deadline: 8 November 2024 | Pukul 23.59 WIB
     > Pengurangan nilai 10% untuk setiap jam keterlambatan
-- Link Pengumpulan: [Akan diumumkan di sini]
+- Link Pengumpulan: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdchevFrY4P9iJa_HU44XhLDjBxu_Ah5XhxwipBZJkC-8SaMg/viewform?usp=sf_link)
